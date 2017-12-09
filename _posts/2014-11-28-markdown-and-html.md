@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Markdown and HTML
-tags: [Test, Markdown]
+title: Tentang Saya
+tags: [About, Me]
 ---
 
-Jekyll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
+Web page ini dibuat dengan menggunakan Github with Jekyll.
 
-Tables have also been extended from Markdown:
+Berikut Biodata Saya:
 
-First Header  | Second Header
+Nama  | Misriadi
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+NIM  | 11453101896
+Jurusan  | Sistem Informasi
 
 Here's an example of an image, which is included using Markdown:
 
