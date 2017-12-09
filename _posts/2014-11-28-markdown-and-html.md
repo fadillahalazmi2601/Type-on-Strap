@@ -8,9 +8,9 @@ Web page ini dibuat dengan menggunakan Github with Jekyll.
 
 Berikut Biodata Saya:
 
-Nama  | Misriadi
+Nama  | Fadillah Al Azmi
 ------------- | -------------
-NIM  | 11453101896
+NIM  | 11453105197
 Jurusan  | Sistem Informasi
 Fakultas  | Sains dan Teknologi
 Universitas  | Universitas Islam Negeri Sultan Syarif Kasim Riau
