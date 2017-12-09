@@ -12,6 +12,11 @@ Nama  | Misriadi
 ------------- | -------------
 NIM  | 11453101896
 Jurusan  | Sistem Informasi
+Fakultas  | Sains dan Teknologi
+Universitas  | Universitas Islam Negeri Sultan Syarif Kasim Riau
+
+
+
 
 Here's an example of an image, which is included using Markdown:
 
